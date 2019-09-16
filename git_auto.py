@@ -15,7 +15,7 @@ while True:
         git.push()
     except Exception as error:
         print(error)
-    time.sleep(600)
+    time.sleep(10)
 
 
 
